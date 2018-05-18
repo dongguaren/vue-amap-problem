@@ -7,7 +7,6 @@ vue init webpack test
 cd test
 npm install vue-amap --save
 npm run dev
-npm install vue-amap --save
 ```
 在 test 文件夹使用 vue-cli 初始化 vue 项目并将将 vue-amap 添加至开发依赖。
 在使用 vue-cli 初始化中，使用的配置如下：
